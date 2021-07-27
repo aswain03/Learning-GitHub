@@ -10,4 +10,6 @@ clock
 trees
 router
 lamp
-
+controller
+plugs 
+door

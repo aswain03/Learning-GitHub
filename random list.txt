@@ -25,5 +25,12 @@ grey
 black
 pink
 
+Also a list of materials... enjoy?
+
+wood
+metal
+glass
+clay
+
 
 Thank you

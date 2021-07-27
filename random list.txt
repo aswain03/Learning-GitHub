@@ -15,4 +15,15 @@ controller
 plugs 
 door
 
+Here is a list of colours i can see too!
+
+brown
+white
+red
+green
+grey
+black
+pink
+
+
 Thank you
